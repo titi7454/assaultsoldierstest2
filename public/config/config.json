@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf5CA295125c7817CBd17F3ca3140Eaf95D0CF329",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf5ca295125c7817cbd17f3ca3140eaf95d0cf329",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Rin",
+    "ID": 4
+  },
+  "NFT_NAME": "Assault Soldiers",
+  "SYMBOL": "AS",
+  "MAX_SUPPLY": 1500,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/assault-soldiers",
+  "SHOW_BACKGROUND": true
+}
